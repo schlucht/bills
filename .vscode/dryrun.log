@@ -1,0 +1,6 @@
+make.exe: Entering directory `/c/Users/jlsch/Documents/bills'
+clear
+go run .
+ 
+make.exe: Leaving directory `/c/Users/jlsch/Documents/bills'
+ 

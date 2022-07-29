@@ -1,2 +1,3 @@
-gorun:
+run:
+	clear
 	go run .
